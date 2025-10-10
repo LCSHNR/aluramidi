@@ -26,4 +26,4 @@ for (let contador = 0; contador < listadeTeclas.length; contador ++){
         }
     }
 }
-listadeTecla[0].onclick = tocaSomPom;
+listadeTecla[0].onclick = tocaSomPom; 
